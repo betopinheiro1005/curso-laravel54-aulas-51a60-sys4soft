@@ -1,3 +1,23 @@
+# Curso de Laravel 5.4 (Aulas 51 a 60)
+## SYS4SOFT (João Ribeiro)
+
+### [Vídeos](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)
+
+### Lista de aulas  
+
+Aula 051 – Exercício 1 - NewsApp - Parte 1  
+Aula 052 – Exercício 1 - NewsApp - Parte 2  
+Aula 053 – Exercício 1 - NewsApp - Parte 3  
+Aula 054 – Exercício 1 - NewsApp - Parte 4  
+Aula 055 – Exercício 1 - NewsApp - Parte 5  
+Aula 056 – Exercício 1 - NewsApp - Parte 6  
+Aula 057 – Exercício 1 - NewsApp - Parte 7  
+Aula 058 – Exercício 1 - NewsApp - Parte 8  
+Aula 059 – Exercício 1 - NewsApp - Parte 9  
+Aula 060 – Exercício 1 - NewsApp - Parte 10 (Final)  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
